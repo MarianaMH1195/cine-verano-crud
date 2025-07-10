@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": "11",
+      "title": "Relatos salvajes",
+      "director": "Damián Szifron",
+      "year": 2014,
+      "country": "Argentina",
+      "genre": "Comedia, Drama, Thriller",
+      "synopsis": "Seis historias independientes exploran la venganza y el humor negro en situaciones extremas de la vida moderna."
+    },
+    {
+      "id": "12",
+      "title": "Mujeres al borde de un ataque de nervios",
+      "director": "Pedro Almodóvar",
+      "year": 1988,
+      "country": "España",
+      "genre": "Comedia",
+      "synopsis": "Una actriz de doblaje busca a su ex pareja mientras se ve envuelta en enredos, malentendidos y personajes extravagantes."
+    },
+    {
+      "id": "13",
+      "title": "¿Qué he hecho yo para merecer esto?",
+      "director": "Pedro Almodóvar",
+      "year": 1984,
+      "country": "España",
+      "genre": "Comedia, Drama",
+      "synopsis": "Gloria es una ama de casa sobrepasada por su caótica familia y su vida rutinaria en un barrio obrero de Madrid. Entre situaciones absurdas y personajes peculiares, lucha por encontrar algo de felicidad en medio del desorden."
+    },
+    {
+      "id": "14",
+      "title": "Entre tinieblas",
+      "director": "Pedro Almodóvar",
+      "year": 1983,
+      "country": "España",
+      "genre": "Comedia, Drama",
+      "synopsis": "Yolanda, una cantante de cabaret, se refugia en un convento muy poco convencional tras ser perseguida por la policía. Allí descubre a un grupo de monjas con extrañas aficiones y mucho sentido del humor negro."
+    }
+  ]
+}

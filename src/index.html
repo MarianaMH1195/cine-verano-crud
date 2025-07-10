@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>ESTE ES EL NAV</nav>
+    <div class="info-section">
+    <div class="movie-slide"></div>
+    <form class="add-movie"></form>
+    PELICULAS
+    <div class="movie-slide" id="movieFore"></div>
+    </div>
+    <form class="add-movie" id="moviForm">
+        <label for =title> Titulo de la pelicula</label><br>
+        <input type="text" id="title" name="title" value=""><br>
+
+        <label for =title> Director</label><br>
+        <input type="text" id="director" name="title" value=""><br>
+
+        <label for =title> Año</label><br>
+        <input type="text" id="year" name="title" value=""><br>
+
+        <label for =title> Pais</label><br>
+        <input type="text" id="country" name="title" value=""><br>
+
+        <label for =title> Genero</label><br>
+        <input type="text" id="gender" name="title" value=""><br>
+
+        <label for =title> Titulo de la pelicula</label><br>
+        <textarea name="synopsis" rows="10" cols="30" id="synopsis"></textarea><br><br>
+
+        <button type="submit" value="Submit">Añadir PELICULAS</button>
+    </form>
+ 
+    </div>
+    <button onclick="printMovie()">click</button>
+    <section></section>
+    <script src="services.js"></script>
+</body>
+</html>
