@@ -1,40 +1,85 @@
 {
   "movies": [
     {
-      "id": "11",
-      "title": "Relatos salvajes",
-      "director": "Damián Szifron",
-      "year": 2014,
-      "country": "Argentina",
-      "genre": "Comedia, Drama, Thriller",
-      "synopsis": "Seis historias independientes exploran la venganza y el humor negro en situaciones extremas de la vida moderna."
+      "title": "Parasite",
+      "director": "Bong Joon-ho",
+      "year": "2019",
+      "country": "South Korea",
+      "genre": "Thriller, Drama",
+      "synopsis": "Una familia pobre se infiltra en la vida de una familia rica, lo que desencadena una serie de eventos inesperados y tensos.",
+      "id": "2"
     },
     {
-      "id": "12",
-      "title": "Mujeres al borde de un ataque de nervios",
-      "director": "Pedro Almodóvar",
-      "year": 1988,
-      "country": "España",
-      "genre": "Comedia",
-      "synopsis": "Una actriz de doblaje busca a su ex pareja mientras se ve envuelta en enredos, malentendidos y personajes extravagantes."
+      "id": "3",
+      "title": "Amélie",
+      "director": "Jean-Pierre Jeunet",
+      "country": "France",
+      "year": 2001,
+      "genre": "Romantic Comedy",
+      "synopsis": "Una joven parisina decide mejorar la vida de quienes la rodean mientras lucha con su propia timidez y deseo de amor."
     },
     {
-      "id": "13",
-      "title": "¿Qué he hecho yo para merecer esto?",
-      "director": "Pedro Almodóvar",
-      "year": 1984,
-      "country": "España",
-      "genre": "Comedia, Drama",
-      "synopsis": "Gloria es una ama de casa sobrepasada por su caótica familia y su vida rutinaria en un barrio obrero de Madrid. Entre situaciones absurdas y personajes peculiares, lucha por encontrar algo de felicidad en medio del desorden."
+      "id": "4",
+      "title": "Pan's Labyrinth",
+      "director": "Guillermo del Toro",
+      "country": "Mexico / Spain",
+      "year": 2006,
+      "genre": "Fantasy, War, Drama",
+      "synopsis": "Durante la guerra civil española, una niña descubre un mundo mágico mientras enfrenta la dura realidad de la posguerra."
     },
     {
-      "id": "14",
-      "title": "Entre tinieblas",
-      "director": "Pedro Almodóvar",
-      "year": 1983,
-      "country": "España",
-      "genre": "Comedia, Drama",
-      "synopsis": "Yolanda, una cantante de cabaret, se refugia en un convento muy poco convencional tras ser perseguida por la policía. Allí descubre a un grupo de monjas con extrañas aficiones y mucho sentido del humor negro."
+      "id": "5",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "country": "Japan",
+      "year": 2001,
+      "genre": "Animation, Fantasy, Adventure",
+      "synopsis": "Una niña queda atrapada en un mundo de espíritus y debe encontrar la forma de rescatar a sus padres y volver al mundo real."
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "country": "USA",
+      "year": 2010,
+      "genre": "Science Fiction, Action",
+      "synopsis": "Un ladrón especializado en robar secretos a través de los sueños es contratado para implantar una idea en la mente de un empresario."
+    },
+    {
+      "id": "7",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "director": "Ang Lee",
+      "country": "Taiwan / China / USA",
+      "year": 2000,
+      "genre": "Action, Drama, Fantasy",
+      "synopsis": "Un guerrero y una mujer luchadora persiguen a una ladrona mientras se enfrentan a sus propios deseos y deberes."
+    },
+    {
+      "id": "8",
+      "title": "The Lives of Others",
+      "director": "Florian Henckel von Donnersmarck",
+      "country": "Germany",
+      "year": 2006,
+      "genre": "Drama, Thriller",
+      "synopsis": "Un agente de la Stasi espía a una pareja de artistas en la Alemania Oriental y comienza a cuestionar su lealtad al régimen."
+    },
+    {
+      "id": "9",
+      "title": "Roma",
+      "director": "Alfonso Cuarón",
+      "country": "Mexico",
+      "year": 2018,
+      "genre": "Drama",
+      "synopsis": "Una empleada doméstica en la Ciudad de México de los años 70 enfrenta desafíos personales mientras cuida a la familia que la emplea."
+    },
+    {
+      "id": "10",
+      "title": "La La Land",
+      "director": "Damien Chazelle",
+      "country": "USA",
+      "year": 2016,
+      "genre": "Musical, Romance, Drama",
+      "synopsis": "Una aspirante a actriz y un músico luchan por alcanzar sus sueños en Los Ángeles mientras se enfrentan a las decisiones del amor y la ambición."
     }
   ]
 }

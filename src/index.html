@@ -1,19 +1,22 @@
+// est
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>🎬 Cine de Verano - Cartelera</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav>ESTE ES EL NAV</nav>
+    <nav>🏖️ Cine de Verano Tropical</nav>
     <div class="info-section">
     <div class="movie-slide"></div>
     <form class="add-movie"></form>
     PELICULAS
     <div class="movie-slide" id="movieFore"></div>
     </div>
-    <form class="add-movie" id="moviForm">
+    <form class="add-movie" id="movieForm">
         <label for =title> Titulo de la pelicula</label><br>
         <input type="text" id="title" name="title" value=""><br>
 
@@ -27,7 +30,7 @@
         <input type="text" id="country" name="title" value=""><br>
 
         <label for =title> Genero</label><br>
-        <input type="text" id="gender" name="title" value=""><br>
+        <input type="text" id="genre" name="title" value=""><br>
 
         <label for =title> Titulo de la pelicula</label><br>
         <textarea name="synopsis" rows="10" cols="30" id="synopsis"></textarea><br><br>
@@ -37,7 +40,9 @@
  
     </div>
     <button onclick="printMovie()">click</button>
+    <button id="updateButton"> Actualizar pelicula </button>
     <section></section>
     <script src="services.js"></script>
+
 </body>
 </html>
